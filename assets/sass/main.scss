@@ -1,0 +1,85 @@
+@import url( 'https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700');
+@import "reset";
+@import "variables";
+
+*{
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background: white !important;
+}
+
+#sideMenu{
+  background: $mystery_blue;
+  max-width: 280px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+
+  nav{
+    padding-top: 40px;
+
+    a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 15px 30px;
+    font-weight: 500;
+    transition: all 0.3s ease-in-out;
+
+    &:hover{
+      background: $menu_background_selected;
+      border-right: 5px solid $menu_selected_border;
+      padding: 15px 30px 15px 25px;
+    }
+
+    &.active{
+      background: $menu_background_selected;
+      color: $menu_item_selected;
+      border-left: 5px solid $menu_selected_border;
+      padding: 15px 30px 15px 25px;
+    }
+    }
+  }
+}
+
+
+header{
+  margin-left: 280px;
+  padding: 10px;
+  background: $background_header;
+
+  .title{
+    margin-top: 0px;
+    margin-left: 250px;
+    font-weight: 700;
+    font-size: 40px;
+  }
+
+  .mahindra_rise{
+    margin-left: 1000px;
+    margin-top: -50px;
+    img{
+      max-width: 100%;
+      height: auto;
+    }
+  }
+
+
+}
+
+
+footer{
+    .accent {
+      position:fixed;
+      bottom:0px;
+      right:0;
+      width: 20%;
+      height: auto;
+    }
+}
