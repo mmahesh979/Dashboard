@@ -1,0 +1,749 @@
+{
+  "Twitter_John Deere India_1": {
+    "date": [
+      30,
+      4,
+      2018
+    ],
+    "tweet": "“tractor maker john deere and india’s biggest conglomerate, tata group, have agreed a groundbreaking initiative to provide machinery to as many as 100,000 smallholder farmers in the niger delta region.” ",
+    "key_words": [
+      "deere",
+      "india",
+      "conglomerate",
+      "group",
+      "initiative",
+      "machinery",
+      "farmer",
+      "region",
+      "have",
+      "agree",
+      "provide"
+    ],
+    "threat_bucket": {
+      "Price": 1
+    },
+    "total_score": [
+      [
+        0.74,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "tense": 1.17
+  },
+  "Twitter_John Deere India_4": {
+    "date": [
+      4,
+      4,
+      2018
+    ],
+    "tweet": " sandipfoundation,nashik is arranging a pool campus  recruitmentdrive for 'john deere india pvt. ltd., pune on 7th april 2018 at sandip polytechnic for 2018 passing batch students and 17 pass out students.  for registrations click here:  ",
+    "key_words": [
+      "sandipfoundation",
+      "nashik",
+      "campus",
+      "recruitmentdrive",
+      "pvt",
+      "be",
+      "arrange",
+      "pune",
+      "april",
+      "polytechnic",
+      "student",
+      "pass",
+      "registration"
+    ],
+    "threat_bucket": {
+      "Skill": 1
+    },
+    "total_score": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "tense": NaN
+  },
+  "Twitter_John Deere India_5": {
+    "date": [
+      3,
+      4,
+      2018
+    ],
+    "tweet": "toured kothagudem & manuguru today. inaugurated kothagudem skill development centre which is setup in partnership with john deerealso had a discussion on enhanced collaboration with john deere, india ceo, satish nadiger & his team ",
+    "key_words": [
+      "kothagudem",
+      "manuguru",
+      "tour",
+      "centre",
+      "setup",
+      "partnership",
+      "deerealso",
+      "discussion",
+      "collaboration",
+      "deere",
+      "ceo",
+      "team",
+      "inaugurate",
+      "be",
+      "have"
+    ],
+    "threat_bucket": {
+      "M&A": 1,
+      "Expansion": 1,
+      "Skill": 1
+    },
+    "total_score": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "tense": 1.08
+  },
+  "Twitter_John Deere India_6": {
+    "date": [
+      20,
+      10,
+      2017
+    ],
+    "tweet": "samuel allen, ceo of john deere, presenting  jiva program in india; increased one family income by 118%  thenextnorm  aitcmb  4hmanitoba",
+    "key_words": [
+      "allen",
+      "ceo",
+      "deere",
+      "program",
+      "india",
+      "income",
+      "aitcmb",
+      "present",
+      "increase"
+    ],
+    "threat_bucket": {
+      "Sales": 1
+    },
+    "total_score": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.72,
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "tense": 1.25
+  },
+  "Twitter_John Deere India_9": {
+    "date": [
+      18,
+      2,
+      2017
+    ],
+    "tweet": "this is a john deere s series in india! sent from a friend that was there! ",
+    "key_words": [
+      "series",
+      "india",
+      "friend",
+      "be",
+      "send"
+    ],
+    "threat_bucket": {
+      "Product": 1
+    },
+    "total_score": [
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "tense": 1.17
+  },
+  "Twitter_John Deere India_11": {
+    "date": [
+      19,
+      9,
+      2016
+    ],
+    "tweet": "in dubuque --> john deere used to employ over 8,000 in the 80s. down to about 2,500 now. plants have moved to china, india, brazil & mexico.",
+    "key_words": [
+      "dubuque",
+      "deere",
+      "80",
+      "use",
+      "employ",
+      "plant",
+      "china",
+      "india",
+      "brazil",
+      "mexico",
+      "have",
+      "move"
+    ],
+    "threat_bucket": {
+      "Expansion": 1,
+      "Skill": 1
+    },
+    "total_score": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "tense": 1.12
+  },
+  "Twitter_John Deere India_12": {
+    "date": [
+      8,
+      7,
+      2016
+    ],
+    "tweet": " makeinindia  pune john deere india exported 24,000 tractors in fy16  .v39a5-v_whc.twitter   cc  amitabhk87  bibekdebroy",
+    "key_words": [
+      "makeinindia",
+      "india",
+      "tractor",
+      "fy16",
+      "export",
+      "v39a5-v_whc",
+      "twitter",
+      "cc",
+      "bibekdebroy"
+    ],
+    "threat_bucket": {
+      "Sales": 1
+    },
+    "total_score": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "tense": NaN
+  },
+  "Twitter_John Deere India_15": {
+    "date": [
+      23,
+      1,
+      2016
+    ],
+    "tweet": "john deere is riding on make in india wave and manufacturing tractors in india and exporting worldwide. - rakesh swami.  natsem16",
+    "key_words": [
+      "deere",
+      "make",
+      "tractor",
+      "india",
+      "be",
+      "rid",
+      "export",
+      "swami"
+    ],
+    "threat_bucket": {
+      "Sales": 1
+    },
+    "total_score": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "tense": NaN
+  },
+  "Twitter_John Deere India_17": {
+    "date": [
+      2,
+      4,
+      2018
+    ],
+    "tweet": "no i agree.  but as an example there was a tractor exhibition at my hotel here in brazil.  kubota, john deere (manufactured locally) etc.  more than half of the engine blocks were manufactured in  wait for it india.  stamped right into the steel.  think about that.",
+    "key_words": [
+      "example",
+      "exhibition",
+      "hotel",
+      "brazil",
+      "be",
+      "kubota",
+      "deere",
+      "manufacture",
+      "half",
+      "block",
+      "wait",
+      "-PRON-",
+      "india",
+      "steel",
+      "stamp",
+      "think"
+    ],
+    "threat_bucket": {
+      "Expansion": 1
+    },
+    "total_score": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "tense": 1.1
+  },
+  "Twitter_John Deere India_18": {
+    "date": [
+      17,
+      1,
+      2018
+    ],
+    "tweet": "john deere foundation partners to improve the lives of farmers in india ",
+    "key_words": [
+      "partner",
+      "life",
+      "farmer",
+      "india",
+      "improve"
+    ],
+    "threat_bucket": {
+      "M&A": 1
+    },
+    "total_score": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "tense": 1.0
+  },
+  "Twitter_John Deere India_19": {
+    "date": [
+      30,
+      11,
+      2017
+    ],
+    "tweet": "fascinating example from john deere in india on learning about  user  needs and innovating: for people in india, a tractor is a plough, a puller and a means of transportation to get anywhere. so john deere built more seats on the tractor   minute 8  innov8rs",
+    "key_words": [
+      "example",
+      "deere",
+      "india",
+      "need",
+      "people",
+      "tractor",
+      "plough",
+      "puller",
+      "means",
+      "transportation",
+      "learn",
+      "innovate",
+      "be",
+      "get",
+      "seat",
+      "minute",
+      "build"
+    ],
+    "threat_bucket": {
+      "Technology": 1,
+      "Skill": 1
+    },
+    "total_score": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.77,
+        1.0
+      ]
+    ],
+    "tense": 1.19
+  },
+  "Twitter_John Deere India_23": {
+    "date": [
+      7,
+      7,
+      2016
+    ],
+    "tweet": "john deere india exported 24,000 tractors in fy16  ",
+    "key_words": [
+      "india",
+      "tractor",
+      "fy16",
+      "export"
+    ],
+    "threat_bucket": {
+      "Sales": 1
+    },
+    "total_score": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "tense": 1.0
+  },
+  "Twitter_John Deere India_26": {
+    "date": [
+      4,
+      4,
+      2015
+    ],
+    "tweet": "john deere india pvt. ltd. dbm 2014 - 2015 batch session on campus.",
+    "key_words": [
+      "pvt",
+      "session",
+      "campus"
+    ],
+    "threat_bucket": {
+      "Skill": 1
+    },
+    "total_score": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "tense": NaN
+  },
+  "Twitter_John Deere India_27": {
+    "date": [
+      6,
+      11,
+      2014
+    ],
+    "tweet": "\"in the next 10 years we will see more automotive innovation than the past 50 years\" john deere speaking at iesf india",
+    "key_words": [
+      "year",
+      "-PRON-",
+      "innovation",
+      "deere",
+      "india",
+      "will",
+      "see",
+      "speak"
+    ],
+    "threat_bucket": {
+      "Technology": 1
+    },
+    "total_score": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.71,
+        0.0
+      ]
+    ],
+    "tense": 1.17
+  },
+  "Twitter_John Deere India_30": {
+    "date": [
+      15,
+      4,
+      2013
+    ],
+    "tweet": "ibm has more employees in india than anywhere else in world! honeywell has  20,000 people in india. 33% of john deere's engineers r in pune.",
+    "key_words": [
+      "ibm",
+      "employee",
+      "india",
+      "world",
+      "honeywell",
+      "people",
+      "have",
+      "%",
+      "engineer",
+      "pune",
+      "r"
+    ],
+    "threat_bucket": {
+      "Skill": 1
+    },
+    "total_score": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "tense": 1.5
+  },
+  "Twitter_John Deere India_38": {
+    "date": [
+      27,
+      4,
+      2011
+    ],
+    "tweet": "john deere india introduces ''smart'' tractor in india: sales and andhra pradesh is a growing mark  gujarat times",
+    "key_words": [
+      "india",
+      "tractor",
+      "pradesh",
+      "mark",
+      "introduce",
+      "be",
+      "grow"
+    ],
+    "threat_bucket": {
+      "Sales": 1
+    },
+    "total_score": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "tense": 1.5
+  },
+  "Twitter_John Deere India_39": {
+    "date": [
+      26,
+      4,
+      2011
+    ],
+    "tweet": "john deere india to increase tractor production, manufacture harvesters ",
+    "key_words": [
+      "india",
+      "production",
+      "harvester",
+      "increase"
+    ],
+    "threat_bucket": {
+      "Product": 1,
+      "Sales": 1
+    },
+    "total_score": [
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "tense": 1.0
+  },
+  "Twitter_John Deere India_40": {
+    "date": [
+      20,
+      4,
+      2011
+    ],
+    "tweet": "john deere launches new tractor in pune: sales & marketing, john deere india, said the company has  gujarat times",
+    "key_words": [
+      "deere",
+      "tractor",
+      "pune",
+      "sale",
+      "marketing",
+      "india",
+      "company",
+      "time",
+      "launch",
+      "say",
+      "have"
+    ],
+    "threat_bucket": {
+      "Product": 1
+    },
+    "total_score": [
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "tense": 1.33
+  },
+  "Twitter_John Deere India_41": {
+    "date": [
+      27,
+      1,
+      2011
+    ],
+    "tweet": "$de john deere partners with state government in india to benefit ",
+    "key_words": [
+      "partner",
+      "government",
+      "india",
+      "benefit"
+    ],
+    "threat_bucket": {
+      "M&A": 1
+    },
+    "total_score": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "tense": 1.0
+  },
+  "Twitter_John Deere India_42": {
+    "date": [
+      26,
+      1,
+      2011
+    ],
+    "tweet": "john deere and company is investing rs 450 crore in india to expand its facility in pune with another plant",
+    "key_words": [
+      "deere",
+      "company",
+      "rs",
+      "india",
+      "facility",
+      "pune",
+      "plant",
+      "be",
+      "invest",
+      "expand"
+    ],
+    "threat_bucket": {
+      "Network": 1,
+      "Expansion": 1,
+      "Technology": 1
+    },
+    "total_score": [
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.77,
+        0.0
+      ]
+    ],
+    "tense": 1.33
+  },
+  "Twitter_John Deere India_43": {
+    "date": [
+      20,
+      1,
+      2011
+    ],
+    "tweet": "illinois based john deere tractors made in india r sold in 70 countries  investing $100 mn to build new factory in india",
+    "key_words": [
+      "tractor",
+      "india",
+      "r",
+      "country",
+      "mn",
+      "factory",
+      "base",
+      "make",
+      "sell",
+      "invest",
+      "build"
+    ],
+    "threat_bucket": {
+      "Expansion": 1,
+      "Technology": 1
+    },
+    "total_score": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.77,
+        0.77,
+        0.0
+      ]
+    ],
+    "tense": 1.1
+  }
+}

@@ -1,0 +1,58 @@
+{
+   "person": [
+       {
+           "bucket": "Price",
+           "john_deere": "1.7",
+           "tafe": "7.9",
+           "sonalika": "2.6",
+           "escorts": "8.3",
+           "link": "sonalika_price.html",
+           "others": "2"
+       },
+       {
+           "bucket": "Product",
+           "john_deere": "1.7",
+           "tafe": "7.9",
+           "sonalika": "4.6",
+           "escorts": "8.3",
+           "link": "sonalika_product.html",
+           "others": "2"
+       },
+       {
+           "bucket": "Distribution",
+           "john_deere": "1.7",
+           "tafe": "7.9",
+           "sonalika": "5.6",
+           "escorts": "8.3",
+           "link": "sonalika_new_channels.html",
+           "others": "2"
+       },
+       {
+           "bucket": "Technology",
+           "john_deere": "1.7",
+           "tafe": "7.9",
+           "sonalika": "2.6",
+           "escorts": "8.3",
+           "link": "sonalika_technology.html",
+           "others": "2"
+       },
+       {
+           "bucket": "Positioning",
+           "john_deere": "1.7",
+           "tafe": "7.9",
+           "sonalika": "2.6",
+           "escorts": "8.3",
+           "link": "sonalika_positioning.html",
+           "others": "2"
+       },
+       {
+           "bucket": "New Revenue",
+           "john_deere": "1.7",
+           "tafe": "7.9",
+           "sonalika": "9",
+           "escorts": "8.3",
+           "link": "sonalika_revenue.html",
+           "others": "2"
+       }
+   ]
+}

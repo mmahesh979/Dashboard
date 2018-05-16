@@ -29,24 +29,19 @@
 
        var people = [];
        var c = "#ffc0000"
-       var space = "&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"
-       $.getJSON('/json/threat_dash.json', function(data) {
-           $.each(data.person, function(i, f) {
-              if (parseFloat(f.sonalika) > 7){
+
+       $.getJSON('/json/sonalika_dash.json', function(data) {
+           $.each(data.price, function(i, f) {
+              if (parseFloat(f.p2) > 7){
                 var c = "#ffc0000";
-              } else if (parseFloat(f.sonalika) > 3){
+              } else if (parseFloat(f.p2) > 3){
                 var c = "#ffc000";
               } else {
                 var c = "#92d000";
               }
-              var tblRow = "<tr class=\"row100\">" + "<td class=\"column100 column1\" data-column=\"column1\"  bgcolor=\"#f2f2f2 \" + font-weight: \"bold\">" + f.bucket + "</td>" +
-               "<td class=\"column100 column2\" data-column=\"column2\">" + space + "</td>" + 
-               "<td class=\"column100 column3\" data-column=\"column3\">" + space + "</td>" + 
-               "<td class=\"column100 column4\" data-column=\"column4 \" bgcolor=" + c + "><a href=\"" + f.link + "\">" + space + "</a></td>" +
-               "<td class=\"column100 column5\" data-column=\"column5\">" + space + "</td>" + 
-               "<td class=\"column100 column6\" data-column=\"column6\">" + space + "</td>" + 
-               "<td class=\"column100 column7\" data-column=\"column7\">" + space + "</td>" + 
-               "<td class=\"column100 column8\" data-column=\"column8\">" + space + "</td>" + "</tr>"
+              var tblRow = "<tr class=\"row100\">" + "<td class=\"column100 column1\" data-column=\"column1\"  bgcolor=\"#f2f2f2 \" + font-weight: \"bold\" colspan=\"4\">" + f.heading + "</td>" +
+               "<td class=\"column100 column4\" data-column=\"column4\">" + f.date + "</td>" +
+               "<td class=\"column100 column6\" data-column=\"column6\"><a href=\"" + f.link + "\">Source</a></td>" + "</tr>"
                $(tblRow).appendTo("#userdata tbody");
          });
 
@@ -65,7 +60,7 @@
         <img src="/img/footer.png" class="accent"/>
       </div>
       <nav>
-        <a href="index.html" class="active">Threat Dashboard</a>
+        <a href="index.html" >Threat Dashboard</a>
         <a href="#">John Deere</a>
         <a href="#">Tafe</a>
         <a href="#">Sonalika</a>
@@ -99,14 +94,9 @@
             <table id= "userdata" data-vertable="ver1">
               <thead>
                 <tr class="row100 head">
-                  <th class="column100 column1" data-column="column1">Threat Dashboard</th>
-                  <th class="column100 column2" data-column="column2">John Deere</th>
-                  <th class="column100 column3" data-column="column3">Tafe</th>
-                  <th class="column100 column4" data-column="column4">Sonalika</th>
-                  <th class="column100 column5" data-column="column5">Escorts</th>
-                  <th class="column100 column6" data-column="column6">Kubota</th>
-                  <th class="column100 column6" data-column="column6">VST</th>
-                  <th class="column100 column6" data-column="column6">CHN</th>
+                  <th class="column100 column1" data-column="column1" colspan="4">Key Drivers</th>
+                  <th class="column100 column4" data-column="column4">Date</th>
+                  <th class="column100 column5" data-column="column5">Source</th>
                 </tr>
               </thead>
               <tbody>

@@ -30,6 +30,7 @@ body {
       height: auto;
     }
 
+
   nav{
     padding-top: 130px;
     height:100%;
@@ -57,10 +58,8 @@ body {
   }
 }
 
-
-
-table {
-    border: 1px solid #63615B;
+.container{
+  justify-content: flex-end
 }
 
 #Heading{
@@ -85,6 +84,8 @@ table {
       height: auto;
     }
   }
+
+}
 
 
 }
